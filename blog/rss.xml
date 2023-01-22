@@ -4,10 +4,21 @@
         <title>JiuMeng Blog</title>
         <link>https://jiumeng714.github.io/blog</link>
         <description>JiuMeng Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Jan 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh</language>
+        <item>
+            <title><![CDATA[First Blog Post]]></title>
+            <link>https://jiumeng714.github.io/blog/sad</link>
+            <guid>sad</guid>
+            <pubDate>Sun, 22 Jan 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[今天的心情还是不是很好，sad]]></description>
+            <content:encoded><![CDATA[<p>今天的心情还是不是很好，sad</p>]]></content:encoded>
+            <category>sad</category>
+            <category>新年</category>
+            <category>初一</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://jiumeng714.github.io/blog/welcome</link>
